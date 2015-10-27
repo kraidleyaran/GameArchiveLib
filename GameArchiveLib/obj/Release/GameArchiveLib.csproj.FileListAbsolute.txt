@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameArchiveLib\GameArchiveLib\bin\Release\GameArchiveLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameArchiveLib\GameArchiveLib\bin\Release\GameArchiveLib.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameArchiveLib\GameArchiveLib\obj\Release\GameArchiveLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameArchiveLib\GameArchiveLib\obj\Release\GameArchiveLib.pdb

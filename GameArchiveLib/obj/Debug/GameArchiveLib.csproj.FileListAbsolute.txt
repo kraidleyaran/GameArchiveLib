@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameArchiveLib\GameArchiveLib\bin\Debug\GameArchiveLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameArchiveLib\GameArchiveLib\bin\Debug\GameArchiveLib.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameArchiveLib\GameArchiveLib\obj\Debug\GameArchiveLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameArchiveLib\GameArchiveLib\obj\Debug\GameArchiveLib.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameArchiveLib\GameArchiveLib\obj\Debug\GameArchiveLib.csprojResolveAssemblyReference.cache

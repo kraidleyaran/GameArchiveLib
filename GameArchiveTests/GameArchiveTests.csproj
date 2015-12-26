@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BinaryImageLib">
+      <HintPath>..\..\GameObjectLib\GameObjectLib\bin\Release\BinaryImageLib.dll</HintPath>
+    </Reference>
     <Reference Include="GameArchiveLib">
       <HintPath>..\GameArchiveLib\bin\Debug\GameArchiveLib.dll</HintPath>
     </Reference>
@@ -40,13 +43,13 @@
       <HintPath>..\..\GameGraphicsLib\GameGraphicsLib\bin\Debug\GameGraphicsLib.dll</HintPath>
     </Reference>
     <Reference Include="GameObjectLib">
-      <HintPath>..\GameArchiveLib\bin\Debug\GameObjectLib.dll</HintPath>
+      <HintPath>..\..\GameObjectLib\GameObjectLib\bin\Release\GameObjectLib.dll</HintPath>
     </Reference>
     <Reference Include="GameObserverLib">
-      <HintPath>..\GameArchiveLib\bin\Debug\GameObserverLib.dll</HintPath>
+      <HintPath>..\..\GameObserverLib\GameObserverLib\bin\Release\GameObserverLib.dll</HintPath>
     </Reference>
     <Reference Include="Messaging">
-      <HintPath>..\GameArchiveLib\bin\Debug\Messaging.dll</HintPath>
+      <HintPath>..\..\GameObjectLib\GameObjectLib\bin\Release\Messaging.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
